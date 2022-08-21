@@ -1,6 +1,6 @@
 ******TwitterClone******
         *A Twitter clone web application*
-
+<hr>
 ******Technology Used:*****
 -> NodeJS and Express as backend language<br>
 -> MongoDB as Database<br>
